@@ -1,0 +1,22 @@
+{
+  "name": "pdf-render",
+  "version": "1.0.0",
+  "description": "pdf render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpoenixfo/pdfRender.git"
+  },
+  "keywords": [
+    "pdf"
+  ],
+  "author": "hpoenixf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hpoenixf/pdfRender/issues"
+  },
+  "homepage": "https://github.com/hpoenixf/pdfRender#readme"
+}
